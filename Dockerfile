@@ -1,4 +1,4 @@
-#基于基础镜像:tomcat:latest
+#基于基础镜像:openjdk:8u212-jdk
 FROM openjdk:8u212-jdk
 
 MAINTAINER 水妖 "995637517@qq.com"
